@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quizer Example</string>
+    <string name="answer_1">Answer 1</string>
+    <string name="value_question_in_here">value question in here?</string>
+    <string name="answer_2">Answer 2</string>
+    <string name="answer_3">Answer 3</string>
+    <string name="answer_4">Answer 4</string>
+    <string name="submit">Submit</string>
+    <string name="username">username</string>
+    <string name="invalid_data_message">Please choose one answer</string>
+</resources>
